@@ -2,7 +2,7 @@
 project
 environmental-consulting-tool/
 ├── data/                 # Datasets or sample data
-├── docs/                 # Documentation (user guide, API guide)
+├── docs/                 # Documentation (user guide)
 ├── src/                  # Source code
 │   ├── app.py            # Main application file
 │   ├── utils.py          # Helper functions
